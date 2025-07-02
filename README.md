@@ -47,10 +47,7 @@ I'm a dedicated Computer Science student focused on **Artificial Intelligence an
 🧠 Neural Networks (TensorFlow, Keras)  
 🧩 LLMs, Generative AI (Fine-Tuning, Prompt Engineering), LangChain, Vector DBs
 
-**Backend & Development:**  
-☕ Java, Spring Boot, Spring AI  
-🔗 REST APIs, MVC, Backend Architecture  
-🐘 MySQL, PostgreSQL
+
 
 **Libraries & Tools:**  
 🔧 Scikit-learn, XGBoost, LightGBM, Pandas, Seaborn, Matplotlib, TF-IDF
